@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Build / transpiled files
+dist/
+build/
+
+# Cache
+.cache/
+
+# Map
+*.js.map
